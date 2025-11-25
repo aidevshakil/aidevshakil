@@ -82,11 +82,11 @@ _Achieved 65–67% accuracy_ via data augmentation, transfer learning & hyperpar
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakilahammed055&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shakilahammed055" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidevshakil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidevshakil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakilahammed055&show_icons=true&theme=tokyonight" alt="shakilahammed055" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidevshakil&show_icons=true&theme=tokyonight" alt="aidevshakil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahammed055&theme=tokyonight" alt="shakilahammed055" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidevshakil&theme=tokyonight" alt="aidevshakil" /></p>
 
 ---
 
