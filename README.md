@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shakil-ahammed055/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/aidevshakil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="https://kaggle.com/shakilahammed0555" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
   <a href="https://stackoverflow.com/users/22852685" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
   <a href="https://codepen.io/shakil-ahammed" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>&nbsp;
