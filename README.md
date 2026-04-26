@@ -1,95 +1,149 @@
-<h1 align="center">Hi, I'm Shakil Ahamed 👋</h1>
+<h1 align="center">Shakil Ahamed</h1>
 
 <p align="center">
-   📊 Data Engineer | 🧠 ML & Data Science Enthusiast   
+  🤖 AI Engineer &nbsp;|&nbsp; 🧠 Machine Learning &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 🔗 Multi-Agent Systems
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shakil-ahammed055/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://kaggle.com/shakilahammed0555" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/22852685" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
+  <a href="https://codepen.io/shakil-ahammed" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>&nbsp;
+  <a href="https://www.behance.net/shakilahamed055" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Data Engineer** and **Machine Learning enthusiast**, building intelligent systems and deriving meaningful insights from data. I love solving real-world problems using cutting-edge AI and analytics technologies.
+I am an AI Engineer with hands-on expertise in **machine learning**, **computer vision**, and **multi-agent orchestration**. I build scalable, production-grade AI systems — from LLM-powered platforms to generative media pipelines — that solve real-world challenges with measurable impact.
 
-- 🧑‍💻 Currently working on ML-driven systems & data pipelines
-- 💬 Ask me about `Machine Learning`, `NLP`, `Computer Vision`, `SQL Analytics`, or `Python`
-- 🌱 Always learning: `MLOps`, `TensorFlow`, `Data Pipelines`, `Power BI`
-- 🧰 Tech Stack: `Python`, `TensorFlow`, `OpenCV`, `MySQL`, `Power BI`, `Pandas`, `Scikit-learn`
-- 📫 Reach me at: shakilahammed055@email.com
-
----
-
-### 🧠 Data Science & AI Projects
-
-#### 🔊 NLP: Audio-to-Text, Sentiment Analysis & QA
-
-_Python, NLP, Machine Learning_  
-→ Speech recognition → Sentiment analysis → Summarization → Q&A pipeline
-
-#### 🧠 ANN & RNN Models
-
-- **Digit Classification** (MNIST + ANN): High accuracy using backpropagation
-- **Sine Wave Prediction**: Used RNN to learn time series and predict future values
-
-#### 🖼️ Computer Vision: Image Classification (CIFAR-10)
-
-_Achieved 65–67% accuracy_ via data augmentation, transfer learning & hyperparameter tuning
-
-#### 📊 Data Analytics & Dashboarding
-
-| Project                       | Tools              | Highlights                                           |
-| ----------------------------- | ------------------ | ---------------------------------------------------- |
-| **e-Commerce Sales Analysis** | Python, SQL, MySQL | Deep analysis of product & customer behavior         |
-| **Netflix Data Analysis**     | Pandas, Matplotlib | EDA + Visualization of content & trends              |
-| **Sales Dashboard**           | Power BI, MySQL    | Built an interactive dashboard for business insights |
+- 🏢 Currently: **AI Developer** at **BETOPIA (Softvence)**, Dhaka, Bangladesh
+- 🎓 BSc in Computer Science & Engineering — Gopalganj Science and Technology University
+- 💡 Focused on: `Multi-Agent AI`, `MLOps`, `Generative AI`, `NLP`, `Computer Vision`
+- 📫 Contact: aidevshakilinfo@gmail.com
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Professional Experience
+
+### AI Developer — BETOPIA (Softvence Sister Concern)
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📅 February 2025 – Present
+
+| Project | Description |
+|---|---|
+| **InPrep-AI Interview Platform** | Directed development of an AI-powered mock interview platform with question generation, scoring, feedback, and candidate tracking |
+| **Multi-Agent Chatbot** | Oversaw integration of EachLabs video/image generation, TTS, and editing tools into scalable FastAPI multi-agent pipelines |
+| **AI Ad Generation System** | Managed a shot-based AI ad video pipeline using GPT-4, MusicGen, Stable Diffusion, and Pydub for end-to-end ad creation |
+| **NFL Player Predictor** | Led feature engineering and modeling combining Goalserve stats, injury data, and fantasy scoring to predict weekly top players |
+| **Viral Clip Detection** | Developed hybrid video segmentation and viral shot detection algorithms to optimize social media engagement |
+| **AI Fitness Tracking** | Built a personalized fitness recommendation system analyzing daily activity to suggest tailored food and exercise plans |
+| **Car Body Wrap AI** | Engineered a CV pipeline for car segmentation (U-Net / SegFormer / SAM) combined with Stable Diffusion wrap generation |
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### ML & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189B73?style=flat)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
+
+> Architectures: CNNs · RNNs · Transformers · U-Net · Stable Diffusion
+
+### NLP & LLMs
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat)
+![NLTK](https://img.shields.io/badge/NLTK-76B900?style=flat)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F00?style=flat)
+
+### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
+![SAM](https://img.shields.io/badge/SAM_(Segment_Anything)-FF6F00?style=flat)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+
+### AI Orchestration & Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![FastMCP](https://img.shields.io/badge/FastMCP-512BD4?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6929C4?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+### Vector Search & Databases
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Data Engineering & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+
+### Cloud & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Personal Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **MCP Platform** | Multi-agent orchestration system enabling seamless integration of AI tools and APIs | FastMCP, LangChain, FastAPI |
+| **Image Captioning Model** | Deep learning model that generates human-like descriptions from visual input | CNNs, Transformers, Python |
+| **Text-to-Image Generator** | Converts natural language prompts into high-quality visuals | Stable Diffusion, Python |
+| **Heart Disease Prediction API** | ML model deployed for early medical diagnostics | Scikit-learn, FastAPI |
+| **Student NLP Chatbot** | Multilingual educational assistant deployed on Render | OpenAI API, FastAPI |
+| **Car Wrap Design Tool** | Visual prototyping for automotive wraps using segmentation + diffusion | SAM, OpenCV, Stable Diffusion |
+| **Netflix Data Analysis** | EDA uncovering viewer behavior and genre popularity trends | Pandas, Matplotlib, Seaborn |
+| **Power BI Sales Dashboards** | Interactive BI dashboards for KPI tracking and sales reporting | Power BI, MySQL |
+
+---
+
+## 🎓 Education & Certifications
+
+**BSc in Computer Science & Engineering**
+Gopalganj Science and Technology University — 2019–2024
+
+**EDGE-BSMRSTU CSE — Digital Skills for Students** *(May–Sep 2024)*
+Data Analysis with Python: EDA, hypothesis testing, ML pipelines
+
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://codepen.io/shakil-ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shakil-ahammed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shakil-ahammed055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil-ahammed055" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22852685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22852685" height="30" width="40" /></a>
-<a href="https://kaggle.com/shakilahammed0555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shakilahammed0555" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shakilahammed.055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakilahammed055" height="30" width="40" /></a>
-<a href="https://www.behance.net/shakilahamed055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahamed055" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidevshakil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aidevshakil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidevshakil&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aidevshakil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidevshakil&show_icons=true&theme=tokyonight" alt="aidevshakil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidevshakil&theme=tokyonight" alt="aidevshakil" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidevshakil&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 <p align="center">
-  💡 “Code with Purpose, Build with Passion” 💡
+  <em>"Code with Purpose. Build with Passion."</em>
 </p>
