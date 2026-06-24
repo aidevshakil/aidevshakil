@@ -28,7 +28,7 @@ I am an AI Engineer with hands-on expertise in **machine learning**, **computer 
 ## 💼 Professional Experience
 
 ### AI Developer — BETOPIA (Softvence Sister Concern)
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📅 February 2025 – Present
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📅 January 2025 – Present
 
 | Project | Description |
 |---|---|
